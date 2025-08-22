@@ -2,6 +2,6 @@ nums=[12,16,18,21,26]
 for num in nums:
     if num%5==0:
         print(num)
-        break#it is compulsory
+        break    # use of break  compulsory for  for-else statement. 
 else:
         print("not found")

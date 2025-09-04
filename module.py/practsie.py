@@ -1,2 +1,0 @@
-print("shashi")
-print("hello")
